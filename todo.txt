@@ -1,1 +1,3 @@
 C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\PharosSystems\Core;C:\Program Files\Git\cmd
+
+I had a chilly morning, and Antartica is nothing compared to here
